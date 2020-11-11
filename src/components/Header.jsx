@@ -9,6 +9,8 @@ export default function Header() {
   );
 }
 
+// upd
+
 const styles = StyleSheet.create({
   header: {
     paddingHorizontal: 15,
